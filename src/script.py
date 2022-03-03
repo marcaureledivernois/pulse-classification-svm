@@ -1,5 +1,5 @@
 import numpy as np
-from config.config import  assets_path
+from src.config import  assets_path
 
 np.save(assets_path+'training_data/target', np.array([0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3,]))
 np.save(assets_path+'training_data/data', np.array([
@@ -42,4 +42,4 @@ np.save(assets_path+'training_data/data', np.array([
 [135, 21],
 [180, 40],
 [180, 50],
-])
+]))
