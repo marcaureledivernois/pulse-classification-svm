@@ -30,6 +30,8 @@ Getting Started
 
   ```python main.py```
   
-## Credits : Code is used as an illustration of the README theory file. Code has been forked from https://github.com/akasantony. I mainly corrected/updated it to make it work on my computers.
+Credits
+-------
+Code is used as an illustration of the README theory file. Code has been forked from https://github.com/akasantony. I mainly corrected/updated it to make it work on my computers.
 
 
